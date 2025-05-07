@@ -1,0 +1,3 @@
+// client/src/stores/index.js
+import { createPinia } from 'pinia'
+export default createPinia()

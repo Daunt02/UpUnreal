@@ -1,5 +1,5 @@
 <template>
-  <q-page padding>
+  <q-page class="q-pa-none">
     <Mapbox3D />
   </q-page>
 </template>

@@ -1,0 +1,17 @@
+/* Global Styling for SigilOS */
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    background-color: #111;
+    color: #eee;
+  }
+  
+  .sigil-marker {
+    transition: transform 0.3s ease;
+  }
+  
+  .sigil-marker:hover {
+    transform: scale(1.2);
+  }
+  

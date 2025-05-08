@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Bayou Portal",
+      "coordinates": [-95.3594, 29.7633],
+      "tier": 1,
+      "trust": 0.95
+    },
+    {
+      "title": "Eleanor Tinsley Stage",
+      "coordinates": [-95.3765, 29.7610],
+      "tier": 2,
+      "trust": 0.88
+    },
+    {
+      "title": "Warehouse District Drop",
+      "coordinates": [-95.3486, 29.7607],
+      "tier": 3,
+      "trust": 0.77
+    },
+    {
+      "title": "Discovery Green Mix Node",
+      "coordinates": [-95.3581, 29.7536],
+      "tier": 2,
+      "trust": 0.81
+    },
+    {
+      "title": "Main Street Ritual",
+      "coordinates": [-95.3625, 29.7599],
+      "tier": 4,
+      "trust": 0.93
+    },
+    {
+      "title": "Historic District Sigil",
+      "coordinates": [-95.3597, 29.7630],
+      "tier": 5,
+      "trust": 0.86
+    },
+    {
+      "title": "Buffalo Bayou Lookout",
+      "coordinates": [-95.3679, 29.7651],
+      "tier": 3,
+      "trust": 0.74
+    }
+  ]
+  
